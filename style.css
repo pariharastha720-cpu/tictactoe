@@ -1,0 +1,22 @@
+/* h3{
+    color: blue;
+    background-color: pink;
+}
+
+li{
+color : red;
+background-color: yellow ;
+} */
+#box {
+ color:brown;
+ height :250px;
+ width : 200px;
+ margin : 25px;
+ border: 2px;
+ text-align : center;
+ background-color: rgb(44, 24, 65);
+}
+button{
+background-color:brown;
+color:orange;
+} 
